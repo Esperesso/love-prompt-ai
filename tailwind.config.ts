@@ -57,6 +57,28 @@ export default {
           border: "hsl(var(--sidebar-border))",
           ring: "hsl(var(--sidebar-ring))",
         },
+        feature: {
+          ai: "hsl(var(--feature-ai))",
+          diagram: "hsl(var(--feature-diagram))", 
+          code: "hsl(var(--feature-code))",
+          team: "hsl(var(--feature-team))",
+          secure: "hsl(var(--feature-secure))",
+          speed: "hsl(var(--feature-speed))",
+        },
+      },
+      backgroundImage: {
+        'gradient-hero': 'var(--gradient-hero)',
+        'gradient-primary': 'var(--gradient-primary)',
+        'gradient-section': 'var(--gradient-section)',
+      },
+      boxShadow: {
+        'glow-primary': 'var(--glow-primary)',
+        'glow-accent': 'var(--glow-accent)',
+        'glow-subtle': 'var(--glow-subtle)',
+      },
+      transitionTimingFunction: {
+        'ease-out-quart': 'var(--ease-out-quart)',
+        'ease-in-out-quart': 'var(--ease-in-out-quart)',
       },
       borderRadius: {
         lg: "var(--radius)",
