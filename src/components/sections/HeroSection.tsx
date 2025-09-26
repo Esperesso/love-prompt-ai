@@ -50,7 +50,7 @@ export const HeroSection = () => {
             <div className="absolute inset-0 bg-gradient-primary/10 rounded-3xl blur-3xl" />
             <div className="relative h-full rounded-2xl overflow-hidden border border-border/20 shadow-glow-subtle">
               <iframe 
-                src='https://my.spline.design/boxeshover-dc88647e73b25c047034b1ba07bb42e4/' 
+                src='https://my.spline.design/boxeshover-KVsi7n7LVIdzNuVVzbofWuck/' 
                 frameBorder='0' 
                 width='100%' 
                 height='100%'
